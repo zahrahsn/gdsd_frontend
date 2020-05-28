@@ -1,0 +1,50 @@
+table,
+th,
+td,
+tr {
+  border: 1px solid black;
+}
+
+h2,
+h3 {
+  color: #069;
+}
+
+h1,
+h2,
+h3 {
+  color: black;
+}
+
+table {
+  padding: 10px;
+  width: 100%;
+}
+
+#container {
+  background-color: beige;
+  color: Black;
+  width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 80px;
+  padding-top: 10;
+}
+
+#header {
+  background-color: beige;
+  color: black;
+  padding-right: 70;
+}
+
+#footer {
+  background-color: beige;
+  padding: 10 px;
+  text-align: center;
+  width: 100%;
+}
+
+#footer a {
+  text-decoration: none;
+}
